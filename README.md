@@ -7,6 +7,8 @@
 * Institution: University of Oregon - Department of Mathematics
 * Advisor: Jonathan Brundan [http://pages.uoregon.edu/brundan/](http://pages.uoregon.edu/brundan/)
 
+Note: In addition to this repository, the dissertation can be found online [here](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/19228/Reynolds_oregon_0171A_11238.pdf?sequence=1).
+
 ### Description
 
 MyDissertation.pdf contains the dissertation itself. Defense.pdf contains the slides that I used for my presentation to my PhD committee. Here follows a (very rough) description of the contents of my dissertation. Please read the dissertation itself for more rigorous details.
